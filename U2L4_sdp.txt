@@ -1,0 +1,9 @@
+1.The matrices need to be the same size
+
+2.The inner values need to be the same
+
+3.The outer values will determine the size of the new matrix
+
+4.
+
+5.We can use range
